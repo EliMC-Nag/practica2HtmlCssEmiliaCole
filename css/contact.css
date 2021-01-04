@@ -1,0 +1,86 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: Open Sans;  
+}
+
+div.panel{
+    text-align: right;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+ul.menu{
+    margin-bottom: 20px;
+    margin-right: -10px;
+}
+
+ul.menu li{
+    display: inline;
+    padding: 0 10px;
+    border-left: 1px solid rgb(71, 71, 71);    
+}
+
+ul.menu li:last-child{
+    border-left: 1px solid rgb(71, 71, 71);       
+}
+
+ul.menu a{
+    color: rgb(71, 71, 71);
+    list-style: none;
+    text-decoration: none;
+}
+
+ul.redes a{
+    color: black;
+    
+}
+
+h1{
+    font-family: Raleway;
+    font-weight: 700px;
+    font-size: 60px;
+    margin-top: 60px;    
+}
+
+h2{
+    font-family: Raleway;
+    font-weight: 700px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+h2#info{
+    font-family: Raleway;
+    margin-bottom: -10px;
+}
+
+h4{
+    font-family: Work Sans;
+    font-weight: bold;
+    color: rgb(32, 144, 148);
+}
+
+ul{
+    margin-top: 20px;
+    margin-bottom: 60px;
+    margin-left: -40px;     
+}
+
+li{
+    list-style: none;
+     
+}
+
+a.dato{   
+    text-decoration: none;
+    color: rgb(85, 84, 84);
+    font-weight: bold;
+}
+
+a.dato b{
+    color: black;   
+}
